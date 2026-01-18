@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>  
   
 
-### <div align="center">I'm 0liuuil0, a developer 👩‍💻</div>  
+### <div align="center">I'm 0liuuil0👩‍💻</div>  
 
 <br/>  
 

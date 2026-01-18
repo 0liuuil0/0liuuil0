@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 ### <div align="center"> 0liuuil0👩‍💻</div>  
 ### <div align="center">树冠的云洛起雪来 影子浮在树的荒海</div>  
 <br/>  
-<img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0liuuil0&locale=cn&line_height=33&theme=&langs_count=5&layout=pie"/>
 
 
   
